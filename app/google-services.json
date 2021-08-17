@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180526642241",
+    "project_id": "noteapp-8d387",
+    "storage_bucket": "noteapp-8d387.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180526642241:android:73d543c4c62ded337282c0",
+        "android_client_info": {
+          "package_name": "elnahas.com.baianattask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180526642241-7kvof4j769t3shdvqbk4ua6g4rpodsel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7WSOuGT0ysFCKoBQYy-NutjNbUGFoxqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180526642241-7kvof4j769t3shdvqbk4ua6g4rpodsel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
